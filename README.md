@@ -1,5 +1,5 @@
-# Object-Detection-take-home-assignment
+# Image Classification Take-Home Assignment
 Take Home assignment for ML internship role.
  
 # Objective
-Train a machine learning algorithm that could detect the acceptable or non-acceptable (‘faulty’) orientation of the electronic component.
+Train a machine learning algorithm that could classify acceptable and non-acceptable (‘faulty’) orientations of the electronic component.
